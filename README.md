@@ -1,7 +1,7 @@
-# Code for OOP Done Right in Ruby w/ Responsibility Driven Design
+# Code for Ruby OOP Done Right w/ Responsibility Driven Design
 ## Montreal.rb Ruby Meetup 2025-01 Talk
 
-This repo contains code examples for the [Montreal.rb January 2025 Ruby meetup talk "OOP Done Right in Ruby w/ Responsibility Driven Design"](https://www.youtube.com/watch?v=-KTUZDpMVKU&list=PLRAf4zt5oEjc2mqmEN9m_O0JovQCXxvxt&index=15).
+This repo contains code examples for the [Montreal.rb January 2025 Ruby meetup talk "OOP Done Right in Ruby w/ Responsibility Driven Design"](https://www.youtube.com/watch?v=-KTUZDpMVKU&list=PLRAf4zt5oEjc2mqmEN9m_O0JovQCXxvxt&index=15). Note that the examples do not cover the entire talk, which is better learned by watching the YouTube Video and browsing through the Presentation Slides.
 
 YouTube Video:
 [https://www.youtube.com/watch?v=-KTUZDpMVKU&list=PLRAf4zt5oEjc2mqmEN9m_O0JovQCXxvxt&index=15](https://www.youtube.com/watch?v=-KTUZDpMVKU&list=PLRAf4zt5oEjc2mqmEN9m_O0JovQCXxvxt&index=15)
